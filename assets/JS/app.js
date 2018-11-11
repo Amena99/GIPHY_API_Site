@@ -1,7 +1,7 @@
 var APIKey = "IqXvMXEGaQBB0Bf4DrXz6U293H5JbnLL";
 var i = 0;
 
-var attractions = ["Paris", "Rome", "Niagara Falls", "Amazon River", "Smoky Mountains"]
+var attractions = ["Paris", "Rome", "Niagara Falls", "Taj Mahal", "Chicago"]
 
 function renderButtons(){
 $("#main2").empty();
